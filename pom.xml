@@ -11,9 +11,11 @@
         <maven.compiler.release>14</maven.compiler.release>
         <kotlin.version>1.4.21-2</kotlin.version>
         <main.class>ch.frankel.blog.renamer.RenamerAppKt</main.class>
-        <git.repository>ajavageek/renamer-swing</git.repository>
+        <git.repository>masumcse1/bdok</git.repository>
         <project.scm.id>github</project.scm.id>
     </properties>
+
+    
     <build>
         <sourceDirectory>${project.basedir}/src/main/kotlin</sourceDirectory>
         <plugins>
